@@ -1,0 +1,15 @@
+{
+  "name": "ธนาคารวัสดุรีไซเคิล",
+  "short_name": "ธนาคารขยะ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2E7D32",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/9QtbYGcP/thnakhar-w-sd-Recycle.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
